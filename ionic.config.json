@@ -1,0 +1,7 @@
+{
+  "name": "jaja-ion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
